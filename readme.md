@@ -8,7 +8,7 @@
 地址： https://huggingface.co/datasets/deepmind/code_contests
 
 ## RicardoPw/acWingSolutions_1k
-https://huggingface.co/datasets/RicardoPw/acWingSolutions_1k
+https://huggingface.co/datasets/RicardoPw/AcWingSolutions_1k
 
 ## dim/leetcodesolutions_en_2k
 https://huggingface.co/datasets/dim/leetcodesolutions_en_2k
